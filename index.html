@@ -7,6 +7,37 @@
 </head>
 <body>
 
+  <header>
+    <Alura class="header-title">Alura Geek</h1>
+</header>
+
+<main class="main-container">
+  <section class="products">
+      <h2>Todos los productos</h2>
+      <div class="all_products" data-lista >
+      </div>
+  </section>
+  <section class="new-product">
+      <h2>Agregar producto</h2>
+      <div class="add_product">
+          <form data-form>
+              <label for="name">Nombre del producto: </label>
+              <input type="text" id="name" placeholder="Ingresa el nombre del producto"  autocomplete="off" required data-name>
+              <label for="price">Precio del producto: </label>
+              <input type="number" id="price" placeholder="Ingresa el precio del producto" autocomplete="off" required data-price>
+              <label for="image">Imagen del producto (URL) : </label>
+              <input type="text" id="image" placeholder="Ingresa la direccion de la imagen" autocomplete="off" required data-image>
+              <div class="buttons-form">
+              <input class="buttons send-button" type="submit" value="GUARDAR">
+              <input class="buttons reset-button" type="reset" value="LIMPIAR">
+              </div>
+              
+          </form>
+      </div>
+  </section>
+</main>
+
+
   <script src="app.js"></script>  
 </body>
 </html>
