@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Auto 1",
+      "precio": "250.000",
+      "imagen": "assets/img/auto1.png"
+    },
+    {
+      "id": "2",
+      "nombre": "Auto 2",
+      "precio": "80.000",
+      "imagen": "assets/img/auto2.png"
+    },
+    {
+      "id": "3",
+      "nombre": "Auto 3",
+      "precio": "90.000",
+      "imagen": "assets/img/auto3.png"
+    },
+    {
+      "id": "4",
+      "nombre": "Auto 4",
+      "precio": "85.000",
+      "imagen": "assets/img/auto4.png"
+    },
+    {
+      "id": "5",
+      "nombre": "Auto 5",
+      "precio": "140.000",
+      "imagen": "assets/img/auto5.png"
+    },
+    {
+      "id": "6",
+      "nombre": "Auto 6",
+      "precio": "160.000",
+      "imagen": "assets/img/auto6.png"
+    },
+    {
+      "id": "7",
+      "nombre": "Auto 7",
+      "precio": "120.000",
+      "imagen": "assets/img/auto7.png"
+    },
+    {
+      "id": "8",
+      "nombre": "Auto 8",
+      "precio": "200.000",
+      "imagen": "assets/img/auto8.png"
+    }
+  ]
+}
