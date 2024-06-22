@@ -1,12 +1,12 @@
 {
   "name": "c",
   "version": "1.0.0",
-  "description": "\"tienda de productos en linea, proyecto challenge Alura\"",
+  "description": "tienda de productos en linea, proyecto challenge Alura",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Juan Carlos Vanegas",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.2",

@@ -3,10 +3,11 @@
     --h2_size:25px;
     --h3_size:16px;
     --h4_size:14px;
-    --body-color:#5ed1ee;
-    --header-title-color1:rgba(11,9,121,1);
+    --body-color:#13a6ca;
+    --bg-header-footer-color: #00051d;
+    --header-title-color1:rgb(54, 51, 206);
     --header-title-color2:rgba(0,212,255,1);
-    --decoration_color:rgba(11,9,121,1);
+    --decoration_color:rgb(102, 100, 180);
 }
 
 *{
