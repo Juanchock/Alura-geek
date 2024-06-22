@@ -60,7 +60,7 @@
     transform: scale(1.05);
 }
 
-/* R E S P O N SI V E */
+/* R E S P O N S I V E */
 @media screen and (max-width:860px) {
     .new-product {
         width: 100%;

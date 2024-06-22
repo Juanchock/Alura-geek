@@ -1,4 +1,4 @@
-const apiUrl = "https://fake-api-blush-tau.vercel.app/productos";
+const apiUrl = "http://localhost:5000/productos";
 
 const productList = async () => {
   try {
